@@ -1,0 +1,14 @@
+C:\Users\MustafaOnur\source\repos\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\MustafaOnur\source\repos\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\MustafaOnur\source\repos\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\MustafaOnur\source\repos\deneme\deneme\obj\Debug\deneme.csproj.ResolveComReference.cache
+C:\Users\MustafaOnur\source\repos\deneme\deneme\bin\Debug\Turnike.exe.config
+C:\Users\MustafaOnur\source\repos\deneme\deneme\bin\Debug\Turnike.exe
+C:\Users\MustafaOnur\source\repos\deneme\deneme\bin\Debug\Turnike.pdb
+C:\Users\MustafaOnur\source\repos\deneme\deneme\obj\Debug\Turnike.exe
+C:\Users\MustafaOnur\source\repos\deneme\deneme\obj\Debug\Turnike.pdb
+C:\Users\MustafaOnur\source\repos\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\MustafaOnur\source\repos\deneme\deneme\obj\Debug\deneme.Hakkında.resources
+C:\Users\MustafaOnur\source\repos\deneme\deneme\obj\Debug\deneme.Turnike.resources
+C:\Users\MustafaOnur\source\repos\deneme\deneme\obj\Debug\deneme.Yardım.resources
+C:\Users\MustafaOnur\source\repos\deneme\deneme\obj\Debug\deneme.Tanılama.resources
